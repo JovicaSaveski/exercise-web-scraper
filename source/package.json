@@ -1,5 +1,5 @@
 {
-  "name": "source",
+  "name": "Web scraper with playwright as exercise for WTS conference",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
