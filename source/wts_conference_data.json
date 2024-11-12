@@ -1,0 +1,902 @@
+{
+  "speakers": [
+    {
+      "name": "Santosh Yadav",
+      "shortDescription": "Senior Software Engineer @ Celonis, a GDE for Angular 🅰️, GitHub Star ⭐ and Nx Champion 🏆",
+      "links": [
+        "https://wts.sh/speakers/1-santosh-yadav",
+        "https://www.santoshyadav.dev",
+        "https://github.com/santoshyadavdev",
+        "https://www.linkedin.com/in/santoshyadavdev/",
+        "https://twitter.com/santoshyadavdev"
+      ],
+      "fullDescription": "My name is Santosh and I work as a Senior Software Engineer at Celonis, a GDE for Angular 🅰️, GitHub Star ⭐, and an Nx Champion 🏆.",
+      "image": "https://wts.sh/_astro/Santosh_Yadav_GitHub_1.KaVSXZl__ZS2spA.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "How to Ship Updates to 40+ Apps Every Week With Nx",
+          "link": "https://wts.sh/sessions/1-how-to-ship-updates-to-40-apps-every-week-with-nx"
+        }
+      ]
+    },
+    {
+      "name": "Sam Vloeberghs",
+      "shortDescription": "Engineer @KOR-Financial, Co-organiser @ngbeconf, GDE serving the @angular community,",
+      "links": [
+        "https://wts.sh/speakers/2-sam-vloeberghs",
+        "https://samvloeberghs.be",
+        "https://github.com/samvloeberghs",
+        "https://be.linkedin.com/in/samvloeberghs",
+        "https://x.com/samvloeberghs"
+      ],
+      "fullDescription": "I’m a Belgium 🇧🇪 based freelance software engineer and Internet entrepreneur, currently focusing on frontend technologies. At the time of writing my main project is working as a senior software engineer / frontend architect at KOR Financial. Together with an awesome team we provide regulated and non-regulated data and compliance post-trade tools to derivatives market participants globally.",
+      "image": "https://wts.sh/_astro/Sam.CxW_SoBm_2mFyiC.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Migrating Angular v17+ to signal inputs, outputs, control flow and more",
+          "link": "https://wts.sh/sessions/3-angular-17-signals"
+        },
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Angular Best Practices",
+          "link": "https://wts.sh/sessions/4-angular-best-practices"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Afonso",
+      "shortDescription": "Developer Advocate at OLX, SolidJS DX team member, Instructor at egghead.io, and Author of State Management with React Query.",
+      "links": [
+        "https://wts.sh/speakers/3-daniel-afonso",
+        "http://egghead.io",
+        "https://www.danieljcafonso.com",
+        "https://github.com/danieljcafonso",
+        "https://www.linkedin.com/in/danieljcafonso/",
+        "https://x.com/danieljcafonso"
+      ],
+      "fullDescription": "Daniel Afonso is a Developer Advocate at OLX, SolidJS DX team member, Instructor at http://egghead.io, and Author of State Management with React Query. Daniel has a full-stack background, having worked with different languages and frameworks on various projects from IoT to Fraud Detection. He is passionate about learning and teaching and has spoken at multiple conferences around the world about topics he loves. In his free time, when he’s not learning new technologies or writing about them, he’s probably reading comics or watching superhero movies and shows.",
+      "image": "https://wts.sh/_astro/20220617_120323.BY03mFup_1yx6Oe.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "SolidStart: The Shape of Frameworks to Come",
+          "link": "https://wts.sh/sessions/15-solid-start-shape-of-frameworks-to-come"
+        },
+        {
+          "time": "",
+          "speakers": "",
+          "title": "A Nerdy Guide to React Server Components",
+          "link": "https://wts.sh/sessions/16-a-nerdy-guide-to-rsc"
+        }
+      ]
+    },
+    {
+      "name": "Atila Fassina",
+      "shortDescription": "DevRel Lead at CrabNebula, SolidJS DX team member, Tauri Advocate, and Google Developer Expert for Web Technologies.",
+      "links": [
+        "https://wts.sh/speakers/4-atila-fassina",
+        "https://atila.io",
+        "https://github.com/atilafassina",
+        "https://www.linkedin.com/in/AtilaFassina/",
+        "https://twitter.com/atilafassina"
+      ],
+      "fullDescription": "I’m a self-taught developer pushing code since 2011, I have worked in teams of every size and across 3 different continents. I’m a GDE for Web Technologies, a SolidJS DX team member, and a Developer Advocate for Tauri.",
+      "image": "https://wts.sh/_astro/avatar-nobg.wsyVhwgj_DxRhp.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Solid Signals",
+          "link": "https://wts.sh/sessions/2-solid-signals"
+        },
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Tauri: Build, Debug, and Ship a Desktop App with Web Tech",
+          "link": "https://wts.sh/sessions/7-tauri-build-debug-and-ship-a-desktop-app-with-web-tech"
+        }
+      ]
+    },
+    {
+      "name": "Mikhail Korolev",
+      "shortDescription": "Developer Experience Engineer at Toptal",
+      "links": [
+        "https://wts.sh/speakers/5-mikhail-korolev",
+        "https://mkrl.xyz",
+        "https://github.com/mkrl",
+        "https://www.linkedin.com/in/mkrl/",
+        "https://x.com/mkrl__"
+      ],
+      "fullDescription": "Software engineer of over 10 years, currently occupied with all the things about front-end infrastructure and developer happiness. Talk to me about the Web Platform, your silly ideas, cooking, browser guts and specialty coffee!",
+      "image": "https://wts.sh/_astro/mikhail.D_jXLH6Q_1F4GiW.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Using The Force to build a better ad-blocker (with my watch)",
+          "link": "https://wts.sh/sessions/12-using-the-force-to-build-a-better-ad-blocker"
+        },
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Frontend Tooling of the Past, Today and Tomorrow",
+          "link": "https://wts.sh/sessions/13-frontend-tooling-of-the-past-today-and-tomorrow"
+        }
+      ]
+    },
+    {
+      "name": "Kevin Maes",
+      "shortDescription": "Product Engineer at Stately, Independent consultant",
+      "links": [
+        "https://wts.sh/speakers/6-kevin-maes",
+        "https://github.com/kevinmaes/",
+        "https://www.linkedin.com/in/kevinmaes/",
+        "https://x.com/kvmaes"
+      ],
+      "fullDescription": "I’m a software from the United States with over 20 years of experience in development, product engineering, and consulting. For the past two years, I’ve worked at Stately, building Stately Studio for visual diagramming based on the open source library, XState.",
+      "image": "https://wts.sh/_astro/kevin.Bx185kRD_Z2tuNJ6.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Evolving Game Development with Genetic Algorithms",
+          "link": "https://wts.sh/sessions/14-evolving-game-development-with-genetic-algorithms"
+        }
+      ]
+    },
+    {
+      "name": "Bozidar Spirovski",
+      "shortDescription": "CISO at Blue dot",
+      "links": [
+        "https://wts.sh/speakers/7-bozidar-spirovski",
+        "https://github.com/spirovskib",
+        "https://mk.linkedin.com/in/spirovskibozidar",
+        "https://x.com/spirovskib"
+      ],
+      "fullDescription": "Spirovski Bozidar has over 20 years of experience in cybersecurity. He believes that cybersecurity is not just about technology but is integral to every aspect of an organization. By working closely with teams, Bozidar aims to integrate cybersecurity features as a standard practice in product development. He also stresses the importance of leadership in fostering individual growth and providing consistent support.",
+      "image": "https://wts.sh/_astro/Bozidar_Spirovski1.7ImNxQT-_YM1vd.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Hiding Secrets & Finding Secrets - How to get hacked with your own credentials",
+          "link": "https://wts.sh/sessions/23-hiding-secrets-and-finding-secrets"
+        },
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Using and Abusing JWTs: The road to authentication bypass",
+          "link": "https://wts.sh/sessions/5-using-and-abusing-jwts"
+        }
+      ]
+    },
+    {
+      "name": "Wekoslav Stefanovski",
+      "shortDescription": "Head of Development at Sourcico",
+      "links": [
+        "https://wts.sh/speakers/8-wekoslav-stefanovski",
+        "https://github.com/sweko",
+        "https://mk.linkedin.com/in/swekster",
+        "https://x.com/swekster"
+      ],
+      "fullDescription": "Wekoslav Stefanovski has more than two decades of professional developer experience using a variety of development technologies. Has been using C# since the first public beta, and has a long and fruitful love relationship with it. Has been using JavaScript since the previous millennium and has a long and fruitful love/hate relationship with it. Currently, works at Sourcico as Head of development. He is passionate about functional programming, static code analysis, compiler design and code quality metrics.",
+      "image": "https://wts.sh/_astro/weko.DAgWfSpt_s5NNk.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Welcome aboard the Typetanic: Unsinkable Strategies for Advanced TypeScript Types",
+          "link": "https://wts.sh/sessions/17-welcome-to-the-typetanic"
+        },
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Using and Abusing JWTs: The road to authentication bypass",
+          "link": "https://wts.sh/sessions/5-using-and-abusing-jwts"
+        }
+      ]
+    },
+    {
+      "name": "Erik Rasmussen",
+      "shortDescription": "Principal Engineer at Attio",
+      "links": [
+        "https://wts.sh/speakers/9-erik-rasmussen",
+        "https://github.com/erikras",
+        "https://www.linkedin.com/in/erikjrasmussen",
+        "https://x.com/erikras"
+      ],
+      "fullDescription": "American expat living in Spain, author of Redux Form, Final Form, and currently building the best CRM in the world at Attio.",
+      "image": "https://wts.sh/_astro/erik_rasmussen.B_PJJCH-_jvSf9.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Building Complex UI with State Machines",
+          "link": "https://wts.sh/sessions/6-complex-ui-state-machines"
+        }
+      ]
+    },
+    {
+      "name": "Angel Petrushevski",
+      "shortDescription": "Full-Stack Developer @ Sorsix, Angular Educator & Front-End Specialist",
+      "links": [
+        "https://wts.sh/speakers/10-angel-petrushevski",
+        "https://www.linkedin.com/in/petrusevski/"
+      ],
+      "fullDescription": "Angel is a Full-Stack Developer @ Sorsix, Angular Educator & Front-End Specialist",
+      "image": "https://wts.sh/_astro/angel.BDskkNiO_1mbm7v.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Routing (lazy loaded routes, child routes, withComponentInputBiding, routed dialogs and/or tabs)",
+          "link": "https://wts.sh/sessions/10-ang-day-routing"
+        },
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Content Projection (default content , dynamic content, templateFunctions, multiple content projection elements,ngTemplateOutlet)",
+          "link": "https://wts.sh/sessions/9-content-projection"
+        }
+      ]
+    },
+    {
+      "name": "Kiril Zafirov",
+      "shortDescription": "Frontend Engineer/Architect Passionate about Angular, Web Components, and Web Performance.",
+      "links": [
+        "https://wts.sh/speakers/11-kiril-zafirov",
+        "https://zafirov.com/",
+        "https://github.com/KirilZafirov",
+        "https://www.linkedin.com/in/kiril-z/",
+        "https://twitter.com/kirilzafirov"
+      ],
+      "fullDescription": "Kiril is a Frontend Engineer/Architect Passionate about Angular, Web Components, and Web Performance.",
+      "image": "https://wts.sh/_astro/kiril.5gclpsk-_1018E9.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Signals, RxJs, Http",
+          "link": "https://wts.sh/sessions/11-signals-rxjs-http"
+        }
+      ]
+    },
+    {
+      "name": "Eva Conevski",
+      "shortDescription": "Frontend Developer @ N47 | Angular Advocate",
+      "links": [
+        "https://wts.sh/speakers/12-eva-conevski",
+        "https://www.linkedin.com/in/eva-conevski-b212111a0"
+      ],
+      "fullDescription": "Eva is a Frontend Developer @ N47 and an Angular Advocate.",
+      "image": "https://wts.sh/_astro/eva.BAu_hzPr_Z2oWvSg.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Routing (lazy loaded routes, child routes, withComponentInputBiding, routed dialogs and/or tabs)",
+          "link": "https://wts.sh/sessions/10-ang-day-routing"
+        },
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Input/Output, Model Binding with new signal flow and Signals",
+          "link": "https://wts.sh/sessions/8-io-model-binding-signals"
+        }
+      ]
+    },
+    {
+      "name": "Fabien Vauchelles",
+      "shortDescription": "Scrapoxy Creator",
+      "links": [
+        "https://wts.sh/speakers/13-fabien-vauchelles",
+        "https://github.com/fabienvauchelles",
+        "https://www.linkedin.com/in/fabienvauchelles/",
+        "https://twitter.com/fabienv"
+      ],
+      "fullDescription": "Fabien Vauchelles is an Anti-Ban Expert. With over a decade of experience in Web Scraping, Fabien’s passion for code and technology helps him to bypass protections. He is the creator of Scrapoxy, a mature free and open-source proxy waterfall tailored for the Web Scraping industry.",
+      "image": "https://wts.sh/_astro/27e394ed-1790-45e1-bcf2-14ded9bda6c1.D_036BER_Z21bURX.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Live-Coding: Mastering Web Scraping with Scrapoxy",
+          "link": "https://wts.sh/sessions/18-mastering-web-scraping"
+        },
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Master Advanced Web Scraping Techniques",
+          "link": "https://wts.sh/sessions/29-master-advanced-web-scraping"
+        }
+      ]
+    },
+    {
+      "name": "Keren Kenzi",
+      "shortDescription": "Senior Software Engineer",
+      "links": [
+        "https://wts.sh/speakers/14-keren-kenzi",
+        "https://medium.com/@KerenKenzi",
+        "https://github.com/kerenk100",
+        "https://www.linkedin.com/in/keren-kenzi/",
+        "https://twitter.com/KerenKenzi"
+      ],
+      "fullDescription": "Keren is a senior software developer with over a decade of experience in the industry. She holds an M.Sc. in Computer Science and is passionate about React and learning new technologies. Keren volunteers as a program manager at Baot, a community that supports women in R&D in their professional growth. She instructs and inspires people to write blogs in her tech blogging workshops. Keren has experience as a dev community leader and a co-organizer of meetups and events. And in her not-so-spare time, she studies psychology. Her hobbies include drawing, photography, and singing.",
+      "image": "https://wts.sh/_astro/keren.x0NGp5NZ_Z1pznCr.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Hello (Virtual) World",
+          "link": "https://wts.sh/sessions/19-hello-virutal-world"
+        }
+      ]
+    },
+    {
+      "name": "Muhammad Ahsan Ayaz",
+      "shortDescription": "Software Architect at Scania Group | Author of the Angular Cookbook | Google Developers Expert in Angular",
+      "links": [
+        "https://wts.sh/speakers/15-muhammad-ahsan-ayaz",
+        "https://www.ahsanayaz.com/",
+        "https://github.com/ahsanayaz",
+        "https://www.linkedin.com/in/ahsanayaz",
+        "https://twitter.com/codewith_ahsan"
+      ],
+      "fullDescription": "Muhammad Ahsan Ayaz is a Software Architect at Scania Group, an author of 2 world-wide published books (the Angular Cookbook), and a Google Developers Expert in Angular. He loves helping the startup ecosystem and product owners bring their ideas to life. And he loves to teach programming using JavaScript, Angular and Web Technologies.",
+      "image": "https://wts.sh/_astro/muhammad.CoQ2hTia_Z291NNF.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "From Patchwork to Picasso: Managing 150+ web apps and what went wrong 🚨",
+          "link": "https://wts.sh/sessions/20-patchwork-to-picasso"
+        }
+      ]
+    },
+    {
+      "name": "Goce Kabov",
+      "shortDescription": "Team Lead at Kin+Carta",
+      "links": [
+        "https://wts.sh/speakers/16-goce-kabov",
+        "https://www.linkedin.com/in/goce-kabov-774842197/"
+      ],
+      "fullDescription": "As a seasoned full-stack developer with over six years of experience, I specialize in crafting robust and scalable web applications. My expertise spans across various technologies, including React, NestJS, Node.js, and Next.js, with a strong foundation in JavaScript. Additionally, I have over three years of hands-on experience with AWS services, enabling me to build, deploy, and manage cloud-based solutions effectively.",
+      "image": "https://wts.sh/_astro/goce-kabov.TQsNOjqE_Z2kFzmo.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Unleashing the Power of Serverless: AWS in Action",
+          "link": "https://wts.sh/sessions/21-unleashing-the-power-of-serverless"
+        }
+      ]
+    },
+    {
+      "name": "Aleksandar Kostadinovski",
+      "shortDescription": "Senior Software Engineer @VASS and founder of 2morrow.solutions",
+      "links": [
+        "https://wts.sh/speakers/17-aleksandar-kostadinovski",
+        "https://www.kostadinovski.info",
+        "https://github.com/acika00mk",
+        "https://www.linkedin.com/in/acika00mk/"
+      ],
+      "fullDescription": "Seasoned Senior Full Stack Engineer with a passion for crafting innovative web and mobile solutions.",
+      "image": "https://wts.sh/_astro/aleksandar.BLeZADtg_DDfRX.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "The Web's Cycle: From Simplicity to Complexity and Back",
+          "link": "https://wts.sh/sessions/22-the-webs-cycle"
+        }
+      ]
+    },
+    {
+      "name": "Arif Alili",
+      "shortDescription": "Lead Software Engineer at Valtech",
+      "links": [
+        "https://wts.sh/speakers/18-arif-alili",
+        "https://www.linkedin.com/in/arif-alili-01833972/"
+      ],
+      "fullDescription": "Arif is a passionate MACH (Microservices, API-first, Cloud-native, Headless) enthusiast with over nine years of experience in requirement gathering, design, and development, especially in e-commerce. As a Lead Engineer, he emphasizes architectural integrity and maintainability, guiding teams through the entire project lifecycle.",
+      "image": "https://wts.sh/_astro/arif.JJkdYCMr_Z15WCsz.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Managing distributed transactions across microservices with the Saga pattern",
+          "link": "https://wts.sh/sessions/24-managing-distributed-transactions-saga"
+        }
+      ]
+    },
+    {
+      "name": "Ivan Veselinovski",
+      "shortDescription": "React hater. Svelte lover.",
+      "links": [
+        "https://wts.sh/speakers/19-ivan-veselinovski",
+        "https://www.linkedin.com/in/iveselinovski/"
+      ],
+      "fullDescription": "Road to MVP: From total beginner to building your idea       Mini bootcamp: 6 months in 3 hours",
+      "image": "https://wts.sh/_astro/ivan-veselinovski.BjsqOJ1r_Z1dJwwx.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Road to MVP: From total beginner to building your idea",
+          "link": "https://wts.sh/sessions/25-road-to-mvp"
+        },
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Mini bootcamp: 6 months in 3 hours",
+          "link": "https://wts.sh/sessions/26-mini-bootcamp"
+        }
+      ]
+    },
+    {
+      "name": "Kristina Lipanovic",
+      "shortDescription": "Software Quality Assurance Engineer",
+      "links": [
+        "https://wts.sh/speakers/20-kristina-lipanovic",
+        "https://www.linkedin.com/in/iveselinovski/"
+      ],
+      "fullDescription": "Kristina Lipanovic is a Software Quality Assurance Engineer with over a decade of experience in the field. She currently works at Proxiad SEE, where she has been focused on enhancing software reliability with tools like Cypress since October 2022. Her career includes roles at Personal Programmer, ClinicHQ, Barracuda FX, and ITS Iskratel, each contributing to her expertise in quality assurance and software testing. She holds a Bachelor’s Degree in Information Technology from the Faculty of Natural Sciences and Mathematics in Skopje.",
+      "image": "https://wts.sh/_astro/kristina.CtisTkdi_J1RQU.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Mocking Tools: Testing Beyond Service Constraints",
+          "link": "https://wts.sh/sessions/27-mocking-tools"
+        }
+      ]
+    },
+    {
+      "name": "Darko Bozhinovski",
+      "shortDescription": "DevRel @ SuperTokens",
+      "links": [
+        "https://wts.sh/speakers/21-darko-bozhinovski",
+        "https://darko.io",
+        "https://github.com/DBozhinovski",
+        "https://www.linkedin.com/in/darkobozhinovski/",
+        "https://twitter.com/d_bozhinovski"
+      ],
+      "fullDescription": "I’m a programmer who loves the web platform, warts included. I’m passionate about technical challenges, open-source software, and Linux. Since 2017, I’ve been active in the Macedonian IT community, organizing events, conferences, lectures, mentorships, and digital content creation.",
+      "image": "https://wts.sh/_astro/darko.JguGb1QB_2bjADX.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Keynote and opening - WTF is WTS?",
+          "link": "https://wts.sh/sessions/30-keynote"
+        },
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Closing - See you next year!",
+          "link": "https://wts.sh/sessions/31-closing"
+        }
+      ]
+    },
+    {
+      "name": "Marjan Nikolovski",
+      "shortDescription": "🚀 Founder and CEO of Emit Knowledge, a research, and product development company",
+      "links": [
+        "https://wts.sh/speakers/22-marjan-nikolovski",
+        "https://www.linkedin.com/in/marjannikolovski/",
+        "https://x.com/m4rjann"
+      ],
+      "fullDescription": "CEO of Emit Knowledge, software engineer, and father of two. Passionate for building teams, knowledge sharing, and product development. Actively involved in open-source, and tech communities as a speaker and contributor.",
+      "image": "https://wts.sh/_astro/marjan.DMSTGw2c_Z1B4dDX.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Exception Handling and Logging: Turning Chaos into Control",
+          "link": "https://wts.sh/sessions/35-exception-handling-logging"
+        }
+      ]
+    },
+    {
+      "name": "Neda Spasevska",
+      "shortDescription": "HR & Recruitment enthusiast",
+      "links": [
+        "https://wts.sh/speakers/23-neda-spasevska",
+        "https://www.linkedin.com/in/nedaspasevska/"
+      ],
+      "fullDescription": "Neda Spasevska is an HR & Recruitment enthusiast employed in Xessable for more than 5 years now actively engaged in all aspects of people and organization matters. Has extensive experience in full-cycle recruiting across diverse tech markets and is passionate about employee development and well-being. Neda is committed to fostering a supportive environment where people can grow and succeed both personally and professionally. People and tech is her inner call, thus a BSc in Psychology is the next goal to support this mission.",
+      "image": "https://wts.sh/_astro/neda.DURgrvKO_Z3KgVv.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Why Soft Skills Matter",
+          "link": "https://wts.sh/sessions/36-why-soft-skills-matter"
+        }
+      ]
+    },
+    {
+      "name": "Ilija Boshkov",
+      "shortDescription": "Software Engineer at CodeChem",
+      "links": [
+        "https://wts.sh/speakers/24-ilija-boshkov",
+        "https://www.linkedin.com/in/ilija-boshkov/"
+      ],
+      "fullDescription": "A software engineer working in the field for about a decade. I spend most of my life @CodeChem doing anything from web development to system architecture, infrastructure and design, and in my free time I do the same thing for open source @Base42. I don’t specialize in much and consider myself a generalist, but since everything is web these days, I’m here for it.",
+      "image": "https://wts.sh/_astro/ilija.CnwLTvNl_ZUkN08.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "The Engine of the Web",
+          "link": "https://wts.sh/sessions/37-the-engine-of-the-web"
+        }
+      ]
+    },
+    {
+      "name": "Gjorgji Dimeski",
+      "shortDescription": "Software Engineer at CodeChem",
+      "links": [
+        "https://wts.sh/speakers/25-gjorgji-dimeski",
+        "https://www.dimeski.net",
+        "https://github.com/dimeskigj/",
+        "https://www.linkedin.com/in/gjorgji-dimeski-933251212/"
+      ],
+      "fullDescription": "I’m a passionate software developer with a dynamic range of experience, from crafting responsive web applications to building innovative mobile apps. My love for technology goes beyond just coding—I thrive on sharing knowledge and actively contribute to tech communities. An advocate of open source, I’m driven by the belief that collaboration and shared innovation fuel progress. Whether it’s exploring new stacks or helping others grow, I’m all in!",
+      "image": "https://wts.sh/_astro/gjorgji.CykA-B72_ZyBLmr.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Beyond the Usual: Web development with Dart",
+          "link": "https://wts.sh/sessions/38-beyond-the-usual-webdev-with-dart"
+        }
+      ]
+    },
+    {
+      "name": "Marko Spasenovski",
+      "shortDescription": "Software Engineer at CodeChem",
+      "links": [
+        "https://wts.sh/speakers/26-marko-spasenovski",
+        "https://www.linkedin.com/in/marko-spasenovski/"
+      ],
+      "fullDescription": "Hello, I’m Marko! I’m a Software Engineer at CodeChem who enjoys building and breaking all kinds of software! I’m currently working as a Full-Stack Developer (React + AWS server-less). My other areas of interest are mostly DevOps-related: Linux, Cloud Development, Docker, and being a part-time plumber creating and fixing pipelines. I also enjoy working with .NET and Flutter. Sometimes when I’m inspired by a certain topic, I write technical blog posts. In my free time, I’m currently on a quest to learn guitar.",
+      "image": "https://wts.sh/_astro/marko.B-e5jlpk_Z1QYuP.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "File System Access API",
+          "link": "https://wts.sh/sessions/39-file-system-access-api"
+        }
+      ]
+    },
+    {
+      "name": "Miroslav Janeski",
+      "shortDescription": "Technical Director at Init Group",
+      "links": [
+        "https://wts.sh/speakers/27-miroslav-janeski",
+        "https://www.linkedin.com/in/miroslavjaneski/"
+      ],
+      "fullDescription": "Miroslav Janeski is a technical director at Init Group and is responsible for cloud development based on .NET and Azure technologies. He has over 15 years of experience in software engineering, working on many domestic and international projects in different domains: ed-tech, Industrial IoT, e-government, embedded systems, automotive industry, control systems, banking and finance, IoT, etc. He holds an Engineering Doctorate (EngD) in Software Technology from the Eindhoven University of Technology. His specialties are data-driven applications and cloud computing. He is a husband and a father of two: a former basketball player and a mountain lover.",
+      "image": "https://wts.sh/_astro/miroslav.BHDFkZSI_2cbb3F.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Cloud Native Applications for .NET developers",
+          "link": "https://wts.sh/sessions/40-cloud-native-dotnet"
+        }
+      ]
+    },
+    {
+      "name": "Tomi Lukan",
+      "shortDescription": "Lead Product Designer at Symphony Digital",
+      "links": [
+        "https://wts.sh/speakers/28-tomi-lukan",
+        "https://www.linkedin.com/in/tommylukan/"
+      ],
+      "fullDescription": "Tomi is a design lead in Symphony Digital with over 16 years of experience, where he excels in crafting products and brands and leading successful design teams.\nHe has extensive experience in Product, App and Web Design and specializes in understanding and transforming complex problems into user-friendly solutions. His expertise spans a wide range of skills, including user research, flows, maps, journeys, analysis, wireframing, prototyping, A/B testing, design systems, and service design. Tomi’s impact extends to collaborating with Fortune 500 companies, where he played a pivotal role in transforming business processes and solutions through UX audits and analysis.",
+      "image": "https://wts.sh/_astro/tomi.CqxlznLm_2530hE.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Transforming User Experiences with AI-Driven Personalization",
+          "link": "https://wts.sh/sessions/41-transforming-user-experience-ai"
+        }
+      ]
+    },
+    {
+      "name": "Viktorija Damchevska",
+      "shortDescription": "People Operations Manager at Brainster",
+      "links": [
+        "https://wts.sh/speakers/29-viktorija-damchevska",
+        "https://www.linkedin.com/in/viktorijadamcevska/"
+      ],
+      "fullDescription": "A People Operations Manager with over 12 years of working experience in total, focused on recruitment and selection, performance management, employer branding, creating content for HR portals, and organizer of DisruptHR. Passionate about sharing stories.",
+      "image": "https://wts.sh/_astro/viktorija.PpFZxONY_Lg3pj.webp",
+      "sessions": [
+        {
+          "time": "",
+          "speakers": "",
+          "title": "Just don't be a jerk",
+          "link": "https://wts.sh/sessions/43-just-dont-be-a-jerk"
+        }
+      ]
+    }
+  ],
+  "venues": [
+    {
+      "name": "Conference Day",
+      "description": "\nThe conference will be held at the MKC. It's in the city center, close\n          to most of the stuff you might want to check out. Plus, if you're into\n          brutalist architecture, you're in for a treat.\n",
+      "address": "Address: Dimitar Vlahov Walk, 1000 Skopje, Macedonia"
+    },
+    {
+      "name": "Workshops and pre-conference events",
+      "description": "\nThe workshops and pre-conference events will be held at the Base42\n          Hackerspace. A (figuratively and literally) underground hackerspace\n          and a hotspot for the local tech communities.\n",
+      "address": "Address: Rimska 25, 1000 Skopje, Macedonia"
+    }
+  ],
+  "ticketInfo": [
+    {
+      "type": "Regular",
+      "price": "€ 100",
+      "benefits": [
+        "Full access to all stages",
+        "Access to pre-conference events and activities",
+        "Access to expo and networking areas",
+        "Access to conference party",
+        "Free swag",
+        "Refreshments"
+      ],
+      "link": "https://ti.to/wts/conference-2024/"
+    },
+    {
+      "type": "VIP",
+      "price": "€ 200",
+      "benefits": [
+        "Everything in Regular",
+        "Access to speaker's dinner party",
+        "Access to VIP area",
+        "Premium swag"
+      ],
+      "link": "https://ti.to/wts/conference-2024/"
+    },
+    {
+      "type": "Group tickets",
+      "price": "Contact us",
+      "benefits": [
+        "Group regular or VIP tickets",
+        "A minimum of 5 tickets",
+        "Contact us for details"
+      ],
+      "link": "mailto:what@wts.sh"
+    }
+  ],
+  "name": "What The Stack",
+  "date": "14th of September",
+  "organizers": [
+    {
+      "name": "DeveD",
+      "link": "https://deved.mk"
+    },
+    {
+      "name": "Angular Macedonia",
+      "link": "https://angularmacedonia.org"
+    },
+    {
+      "name": "Base42",
+      "link": "https://42.mk"
+    }
+  ],
+  "agenda": [
+    {
+      "day": "Saturday (14th)",
+      "venue": "Venue: MKC",
+      "description": "",
+      "stages": [
+        {
+          "stage": "Stage 1",
+          "sessions": [
+            {
+              "time": "09:30",
+              "title": "Keynote and opening - WTF is WTS?",
+              "speakers": "Darko Bozhinovski",
+              "link": "https://wts.sh/sessions/30-keynote"
+            },
+            {
+              "time": "10:00",
+              "title": "Building Complex UI with State Machines",
+              "speakers": "Erik Rasmussen",
+              "link": "https://wts.sh/sessions/6-complex-ui-state-machines"
+            },
+            {
+              "time": "10:45",
+              "title": "Solid Signals",
+              "speakers": "Atila Fassina",
+              "link": "https://wts.sh/sessions/2-solid-signals"
+            },
+            {
+              "time": "11:20",
+              "title": "Coffee break",
+              "speakers": "",
+              "link": "https://wts.sh/sessions/32-coffee-break"
+            },
+            {
+              "time": "11:35",
+              "title": "SolidStart: The Shape of Frameworks to Come",
+              "speakers": "Daniel Afonso",
+              "link": "https://wts.sh/sessions/15-solid-start-shape-of-frameworks-to-come"
+            },
+            {
+              "time": "12:20",
+              "title": "Hello (Virtual) World",
+              "speakers": "Keren Kenzi",
+              "link": "https://wts.sh/sessions/19-hello-virutal-world"
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch break",
+              "speakers": "",
+              "link": "https://wts.sh/sessions/34-lunch"
+            },
+            {
+              "time": "13:40",
+              "title": "Frontend Tooling of the Past, Today and Tomorrow",
+              "speakers": "Mikhail Korolev",
+              "link": "https://wts.sh/sessions/13-frontend-tooling-of-the-past-today-and-tomorrow"
+            },
+            {
+              "time": "14:25",
+              "title": "The Web's Cycle: From Simplicity to Complexity and Back",
+              "speakers": "Aleksandar Kostadinovski",
+              "link": "https://wts.sh/sessions/22-the-webs-cycle"
+            },
+            {
+              "time": "15:00",
+              "title": "Coffee break",
+              "speakers": "",
+              "link": "https://wts.sh/sessions/33-coffee-break"
+            },
+            {
+              "time": "15:15",
+              "title": "Welcome aboard the Typetanic: Unsinkable Strategies for Advanced TypeScript Types",
+              "speakers": "Wekoslav Stefanovski",
+              "link": "https://wts.sh/sessions/17-welcome-to-the-typetanic"
+            },
+            {
+              "time": "16:00",
+              "title": "Closing - See you next year!",
+              "speakers": "Darko Bozhinovski",
+              "link": "https://wts.sh/sessions/31-closing"
+            },
+            {
+              "time": "16:40",
+              "title": "After party",
+              "speakers": "DJ Goce",
+              "link": "https://wts.sh/sessions/42-after-party"
+            }
+          ]
+        },
+        {
+          "stage": "Stage 2",
+          "sessions": [
+            {
+              "time": "10:00",
+              "title": "How to Ship Updates to 40+ Apps Every Week With Nx",
+              "speakers": "Santosh Yadav",
+              "link": "https://wts.sh/sessions/1-how-to-ship-updates-to-40-apps-every-week-with-nx"
+            },
+            {
+              "time": "10:45",
+              "title": "Migrating Angular v17+ to signal inputs, outputs, control flow and more",
+              "speakers": "Sam Vloeberghs",
+              "link": "https://wts.sh/sessions/3-angular-17-signals"
+            },
+            {
+              "time": "11:35",
+              "title": "From Patchwork to Picasso: Managing 150+ web apps and what went wrong 🚨",
+              "speakers": "Muhammad Ahsan Ayaz",
+              "link": "https://wts.sh/sessions/20-patchwork-to-picasso"
+            },
+            {
+              "time": "12:20",
+              "title": "Evolving Game Development with Genetic Algorithms",
+              "speakers": "Kevin Maes",
+              "link": "https://wts.sh/sessions/14-evolving-game-development-with-genetic-algorithms"
+            },
+            {
+              "time": "13:40",
+              "title": "Live-Coding: Mastering Web Scraping with Scrapoxy",
+              "speakers": "Fabien Vauchelles",
+              "link": "https://wts.sh/sessions/18-mastering-web-scraping"
+            },
+            {
+              "time": "14:25",
+              "title": "Road to MVP: From total beginner to building your idea",
+              "speakers": "Ivan Veselinovski",
+              "link": "https://wts.sh/sessions/25-road-to-mvp"
+            },
+            {
+              "time": "15:15",
+              "title": "Exception Handling and Logging: Turning Chaos into Control",
+              "speakers": "Marjan Nikolovski",
+              "link": "https://wts.sh/sessions/35-exception-handling-logging"
+            }
+          ]
+        },
+        {
+          "stage": "Stage 3",
+          "sessions": [
+            {
+              "time": "10:45",
+              "title": "Hiding Secrets & Finding Secrets - How to get hacked with your own credentials",
+              "speakers": "Bozidar Spirovski",
+              "link": "https://wts.sh/sessions/23-hiding-secrets-and-finding-secrets"
+            },
+            {
+              "time": "11:35",
+              "title": "Mocking Tools: Testing Beyond Service Constraints",
+              "speakers": "Kristina Lipanovic",
+              "link": "https://wts.sh/sessions/27-mocking-tools"
+            },
+            {
+              "time": "12:20",
+              "title": "Managing distributed transactions across microservices with the Saga pattern",
+              "speakers": "Arif Alili",
+              "link": "https://wts.sh/sessions/24-managing-distributed-transactions-saga"
+            },
+            {
+              "time": "13:40",
+              "title": "Unleashing the Power of Serverless: AWS in Action",
+              "speakers": "Goce Kabov",
+              "link": "https://wts.sh/sessions/21-unleashing-the-power-of-serverless"
+            },
+            {
+              "time": "14:25",
+              "title": "The Engine of the Web",
+              "speakers": "Ilija Boshkov",
+              "link": "https://wts.sh/sessions/37-the-engine-of-the-web"
+            }
+          ]
+        },
+        {
+          "stage": "Stage 4",
+          "sessions": [
+            {
+              "time": "10:45",
+              "title": "Cloud Native Applications for .NET developers",
+              "speakers": "Miroslav Janeski",
+              "link": "https://wts.sh/sessions/40-cloud-native-dotnet"
+            },
+            {
+              "time": "11:35",
+              "title": "Beyond the Usual: Web development with Dart",
+              "speakers": "Gjorgji Dimeski",
+              "link": "https://wts.sh/sessions/38-beyond-the-usual-webdev-with-dart"
+            },
+            {
+              "time": "12:20",
+              "title": "File System Access API",
+              "speakers": "Marko Spasenovski",
+              "link": "https://wts.sh/sessions/39-file-system-access-api"
+            },
+            {
+              "time": "13:40",
+              "title": "Transforming User Experiences with AI-Driven Personalization",
+              "speakers": "Tomi Lukan",
+              "link": "https://wts.sh/sessions/41-transforming-user-experience-ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
